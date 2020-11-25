@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageDownloaderAlgo", "ImageDownloader\ImageDownloaderAlgo\ImageDownloaderAlgo.csproj", "{729FDCE1-A1A1-4B77-96CA-57CE11E1B9E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImageDownloader", "ImageDownloader", "{753E1FAB-55FF-442E-8B99-739082B34586}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageDownloaderDebug", "ImageDownloader\ImageDownloaderDebug\ImageDownloaderDebug.csproj", "{685D42F9-EA4A-4D4B-817B-D4828BCCA94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729FDCE1-A1A1-4B77-96CA-57CE11E1B9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729FDCE1-A1A1-4B77-96CA-57CE11E1B9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729FDCE1-A1A1-4B77-96CA-57CE11E1B9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729FDCE1-A1A1-4B77-96CA-57CE11E1B9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685D42F9-EA4A-4D4B-817B-D4828BCCA94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685D42F9-EA4A-4D4B-817B-D4828BCCA94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685D42F9-EA4A-4D4B-817B-D4828BCCA94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685D42F9-EA4A-4D4B-817B-D4828BCCA94B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{729FDCE1-A1A1-4B77-96CA-57CE11E1B9E4} = {753E1FAB-55FF-442E-8B99-739082B34586}
+		{685D42F9-EA4A-4D4B-817B-D4828BCCA94B} = {753E1FAB-55FF-442E-8B99-739082B34586}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F850E0A4-B321-471F-8E1D-02BEDA8CEED3}
+	EndGlobalSection
+EndGlobal

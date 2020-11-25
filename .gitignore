@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NetCore/.vs/AlgoniaCsAlgos
+/NetCore/ImageDownloader/ImageDownloaderAlgo/.vs/ImageDownloaderAlgo/DesignTimeBuild
+/NetCore/ImageDownloader/ImageDownloaderAlgo/bin
+/NetCore/ImageDownloader/ImageDownloaderAlgo/obj
+/NetCore/ImageDownloader/ImageDownloaderDebug/bin
+/NetCore/ImageDownloader/ImageDownloaderDebug/obj

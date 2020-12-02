@@ -8,3 +8,7 @@
 /NetCore/ImageDownloader/ImageDownloaderAlgo/obj
 /NetCore/ImageDownloader/ImageDownloaderDebug/bin
 /NetCore/ImageDownloader/ImageDownloaderDebug/obj
+/NetCore/ObjectDetection/ObjectDetectionAlgo/bin/Debug/netcoreapp3.1/win-x64
+/NetCore/ObjectDetection/ObjectDetectionAlgo/obj
+/NetCore/ObjectDetection/ObjectDetectionDebug/obj
+/NetCore/ObjectDetection/ObjectDetectionDebug/bin/Debug/netcoreapp3.1
